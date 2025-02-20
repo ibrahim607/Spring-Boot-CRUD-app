@@ -1,0 +1,8 @@
+com\ibrahim\oracle_db_connectivity\entity\User.class
+com\ibrahim\oracle_db_connectivity\controller\UserController.class
+com\ibrahim\oracle_db_connectivity\DTO\UserDTO$UserDTOBuilder.class
+com\ibrahim\oracle_db_connectivity\service\UserService.class
+com\ibrahim\oracle_db_connectivity\OracleDbConnectivityApplication.class
+com\ibrahim\oracle_db_connectivity\repository\UserRepository.class
+com\ibrahim\oracle_db_connectivity\DTOmapper\DTOMapper.class
+com\ibrahim\oracle_db_connectivity\DTO\UserDTO.class
